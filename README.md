@@ -3,6 +3,7 @@
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=satish154&label=Profile%20views&color=0e75b6&style=flat" alt="satish154" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=satish154&label=Profile%20views&color=0e75b6&style=flat" alt="satish154" /> </p>
 
 - 🔭 I’m currently working on **anime E-Commerce website**
 
@@ -27,3 +28,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=satish154&show_icons=true&locale=en" alt="satish154" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=satish154&" alt="satish154" /></p>
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=satish154&limit=5&theme=flat&combine_all_yearly_contributions=true)
