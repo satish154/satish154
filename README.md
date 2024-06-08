@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm thota satish kumar</h1>
 <h3 align="center">A passionate devops engineer from india</h3>
-<img align="right" alt="Coding" width="400" src="https://www.google.com/imgres?q=gifs%20for%20devops%20engineer%20free&imgurl=https%3A%2F%2Fcdnl.iconscout.com%2Flottie%2Fpremium%2Fthumb%2Fprofessional-male-devops-8872610-7233289.gif&imgrefurl=https%3A%2F%2Ficonscout.com%2Flottie-animation%2Fprofessional-male-devops-8872610&docid=x5gf1jgl_usfgM&tbnid=VYH4NCMpIgetmM&vet=12ahUKEwjtscj_yMuGAxVWyDgGHZAwCOIQM3oECFIQAA..i&w=462&h=355&hcb=2&ved=2ahUKEwjtscj_yMuGAxVWyDgGHZAwCOIQM3oECFIQAA">
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=satish154&label=Profile%20views&color=0e75b6&style=flat" alt="satish154" /> </p>
 
